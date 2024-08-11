@@ -3,13 +3,13 @@
     font-family: "Borest Regular";
     font-style: normal;
     font-weight: 400;
-    src: local("Borest Regular"), local('Borest-Regular'), url("https://d3jpwrui3eswtl.cloudfront.net/borest/Borest-Regular.otf") format('opentype');
+    src: local("Borest Regular"), local('Borest-Regular'), url("assets/Borest-Regular.otf") format('opentype');
   }
 
   @font-face {
     font-family: "Borest";
     font-style: normal;
     font-weight: 400;
-    src: local("Borest Regular"), local('Borest-Regular'), url("https://d3jpwrui3eswtl.cloudfront.net/borest/Borest-Regular.otf") format('opentype');
+    src: local("Borest Regular"), local('Borest-Regular'), url("assets/Borest-Regular.otf") format('opentype');
   }
 
