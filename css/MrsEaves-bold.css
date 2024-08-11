@@ -1,0 +1,15 @@
+
+  @font-face {
+    font-family: "MrsEaves Bold";
+    font-style: normal;
+    font-weight: 700;
+    src: local("MrsEaves-Bold"), local('MrsEaves-Bold'), url("https://d3jpwrui3eswtl.cloudfront.net/mrseaves/MrsEaves-Bold-Bold.ttf") format('truetype');
+  }
+
+  @font-face {
+    font-family: "MrsEaves";
+    font-style: normal;
+    font-weight: 700;
+    src: local("MrsEaves-Bold"), local('MrsEaves-Bold'), url("https://d3jpwrui3eswtl.cloudfront.net/mrseaves/MrsEaves-Bold-Bold.ttf") format('truetype');
+  }
+
